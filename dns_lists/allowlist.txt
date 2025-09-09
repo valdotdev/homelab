@@ -56,5 +56,5 @@
 @@||hoyoverse.com^$document
 
 ## OTHERS ##
-@@||hanime.tv^$document
+## @@||hanime.tv^$document
 @@||akidoo.top^$document
