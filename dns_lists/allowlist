@@ -1,4 +1,5 @@
 ## PAYMENT PROCESSORS AND BANKING DOMAINS ##
+
 @@||paypal.com^$document
 @@||paypalobjects.com^$document
 @@||braintreegateway.com^$document
@@ -50,10 +51,10 @@
 @@||shopify.com^$document
 @@||shopify.ca^$document
 @@||shopify.dev^$document
-@@||.com^$document
-@@||.com^$document
-@@||.com^$document
-@@||.com^$document
-@@||.com^$document
+
 ## GAMES ##
 @@||hoyoverse.com^$document
+
+## OTHERS ##
+@@||hanime.tv^$document
+@@||akidoo.top^$document
